@@ -15,4 +15,5 @@
 0. For continuous testing, use `bundle exec guard`
 
 ## Usage
-0. To do
+0. Run `ruby app.rb`
+0. Visit [http://localhost:4567](http://localhost:4567)
